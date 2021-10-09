@@ -1,0 +1,48 @@
+#main{
+    height: 150%;
+    width: 100%;
+    background-image: linear-gradient(rgba(226, 28, 28, 0.4),rgb(104, 99, 151));
+    background-position: center;
+    background-size:contain;
+    position: absolute;
+    
+    
+    }
+    
+    #omg{
+    width: 40rem;
+    height: 58rem;
+    box-shadow: 20px 15px rgb(245, 252, 255);
+    position: relative;
+    margin: 1% auto;
+    border-radius: 3rem;
+    font-weight: bolder;
+    background-color: #172a5f;
+    padding: 8px;
+    color:rgb(241, 9, 9);
+    text-align:center;
+        
+    }
+    
+    input{
+    font-weight: bolder;
+    background-color: rgb(31, 179, 63);
+    color: rgb(255, 0, 0);
+    border: none;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 4px 4px 20px rgb(255, 254, 254);
+    text-align:center;
+    
+    }
+    
+    p{
+    
+        margin-top: 0px;
+        text-align:justify;
+        text-transform: uppercase;
+        color: #81b882;
+        border-style: double;
+        border-width: thick;
+       
+    }
